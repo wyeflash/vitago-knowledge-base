@@ -1,0 +1,16 @@
+---
+source_url: https://lpi.oregonstate.edu/mic/vitamins/vitamin-b12
+ingested: 2026-05-02
+sha256: 750da64cdc6e0469fe849304fb774bf07aa8a018f4f143bf90056cee98f90d3c
+---
+
+Table of Contents Español | 日本語 Summary Vitamin B 12 or cobalamin plays essential roles in folate metabolism and in the synthesis of the citric acid cycle intermediate, succinyl-CoA.&nbsp;&nbsp; (More information) Vitamin B 12 deficiency is commonly associated with chronic stomach inflammation , which may contribute to an autoimmune vitamin B 12 malabsorption syndrome called pernicious anemia and to a food-bound vitamin B 12 malabsorption syndrome
+Impairment of vitamin B 12 absorption can cause megaloblastic anemia and neurologic disorders in deficient subjects.&nbsp;&nbsp; (More information) &nbsp; Normal function of the digestive system required for food-bound vitamin B 12 absorption is commonly impaired in individuals over 60 years of age, placing them at risk for vitamin B 12 deficiency.&nbsp;&nbsp; (More information) Vitamin B 12 and folate are important for homocysteine metabolism
+Elevated blood homocysteine concentration is a risk factor for cardiovascular disease
+However, most intervention trials of B-vitamin supplementation have found homocysteine lowering does not reduce risk of heart attack
+B-vitamin supplementation may slightly reduce risk of stroke , but these benefits may not be seen in patients with chronic kidney disease.&nbsp;&nbsp; (More information) The preservation of DNA integrity is dependent on folate and vitamin B 12 availability
+Poor vitamin B 12 status has been linked to increased risk of breast cancer in some, but not all, observational studies
+Additional studies are needed to clarify the relationship of vitamin B 12 and breast cancer.&nbsp;&nbsp; (More information) Low maternal vitamin B 12 status has been associated with an increased risk of neural tube defects (NTD), but it is not known whether vitamin B 12 supplementation could help reduce the risk of NTD.&nbsp;&nbsp; (More information) Vitamin B 12 is essential for the preservation of the myelin sheath around neurons and for the synthesis of neurotransmitters
+While hyperhomocysteinemia may increase the risk of cognitive impairment and age-related neurodegenerative disease (e.g., Alzheimer’s disease ), it is not clear whether vitamin B 12 deficiency contributes to the risk of dementia in the elderly
+Although B-vitamin supplementation lowers blood homocysteine levels in older subjects, the long-term benefit is not yet known.&nbsp;&nbsp; (More information) Both depression and osteoporosis have been linked to diminished vitamin B 12 status and high homocysteine levels.&nbsp;&nbsp; (More information) Products of animal origin constitute the primary source of vitamin B 12
+Older individuals and vegans are advised to use vitamin B 12 fortified foods and supplements to meet their needs.&nbsp;&nbsp; (More information) The long-term use of certain medications, such as inhibitors of stomach acid secretion and the anti- diabetes drug, metformin, can adversely affect vitamin B 12 absorption.&nbsp;&nbsp; (More information) Image

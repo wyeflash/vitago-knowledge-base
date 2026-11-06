@@ -1,0 +1,40 @@
+Cinnamon is a spice that comes from the dried bark of various species of Cinnamomum trees. Ceylon cinnamon (Cinnamomum verum), known as “true” cinnamon, grows primarily in Sri Lanka. Cassia cinnamon (Cinnamomum aromaticum), grown in areas of southeastern Asia, is the most common type sold in North America.
+The bark, leaves, flowers, fruits, and roots of cinnamon have a long history of use in traditional medicine and cuisine in many parts of the world, including China, India, and Persia (Iran). Cinnamon was thought to help people with inflammation, nerve pain, heart disease, cough, and other conditions.
+Today, cinnamon products are promoted as a dietary supplement for diabetes and weight loss. Ceylon cinnamon is promoted for allergic rhinitis (hay fever). Cassia cinnamon is promoted for topical use (application to the skin) as a mosquito repellent.
+There have been many studies of cinnamon, especially for diabetes. However, the results of the studies are difficult to interpret because it’s often unclear which species or part of the cinnamon plant was tested.
+It’s unclear whether cinnamon supplementation is helpful for diabetes or weight loss. Higher quality research would be needed to clarify any benefits.
+Preliminary research indicates that a nasal spray containing Ceylon cinnamon extract might improve symptoms of allergic rhinitis (hay fever), but more reliable evidence is needed to confirm this initial result.
+It’s unclear whether cassia cinnamon is effective as a mosquito repellant.
+Cinnamon is likely safe when consumed in the amounts commonly used in foods as a spice or flavoring agent. When used in larger amounts or for long periods of time, cinnamon is sometimes associated with side effects, most commonly gastrointestinal problems or allergic reactions.
+Never consume cinnamon powder as part of the “cinnamon challenge,” an unsafe internet dare. Serious harm is possible.
+Interactions between coumarin, a chemical found in cassia cinnamon, and the liver have been reported. Consuming cassia cinnamon doesn’t usually include enough coumarin to cause significant problems; however, some cassia cinnamon products contain high levels of coumarin. Prolonged use of cassia cinnamon could be an issue for sensitive people, such as those with liver disease. Ceylon cinnamon may contain a trace amount of coumarin.
+Some types of topical cinnamon oil or powder may cause skin irritation or contact dermatitis, according to reports.
+According to research partially funded by the National Center for Complementary and Integrative Health, there are theoretical reasons to suspect that some components of cinnamon may interact with an anticancer medicine or nicotine. If you take any type of medicine, talk with your health care provider before using cinnamon or other herbal products; some herbs and medicines interact in harmful ways.
+Some studies of the use of Ceylon and cassia cinnamon during pregnancy suggest it is safe in amounts commonly found in foods, but Ceylon cinnamon in larger amounts during pregnancy is considered unsafe. Little is known about whether it’s safe to use Ceylon or cassia cinnamon in larger amounts while breastfeeding.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.
+Federal Regulation of Herbal Products Depending on what’s in them, how they’re intended to be used, and how they’re administered (orally or topically), herbal products are regulated in a variety of ways. Many herbal products intended for oral use are marketed as dietary supplements. The rules for making and distributing dietary supplements are less strict than those for drugs.
+Unlike drugs, dietary supplements are not approved by the U.S. Food and Drug Administration (FDA) before they are sold to the public. When public health concerns arise about the safety of a dietary supplement or an ingredient including an herb, the FDA can take action to protect the public. Manufacturers and distributors of supplements are responsible for evaluating the safety and labeling of their products before marketing to ensure that they meet all regulatory requirements.
+Know the Science: How Medications and Supplements Can Interact
+Know the Science: How To Make Sense of a Scientific Journal Article
+Bosmia AN, Leon KJ. Lung injury and the cinnamon challenge: college students should beware this Internet dare . Journal of Injury &amp; Violence Research. 2015;7(1):41-42.
+Cassia cinnamon. NatMed Pro website. Accessed at naturalmedicines.therapeuticresearch.com on August 23, 2023. [Database subscription].
+Ceylon cinnamon. NatMed Pro website. Accessed at naturalmedicines.therapeuticresearch.com on August 23, 2023. [Database subscription].
+Grant-Alfieri A, Schaechter J, Lipshultz SE. Ingesting and aspiring dry cinnamon by children and adolescents: the “cinnamon challenge.” Pediatrics. 2013;131(5):833-835.
+Hajimonfarednejad M, Ostovar M, Raee MJ, et al. Cinnamon: a systematic review of adverse events . Clinical Nutrition. 2019;38(2):594-602.
+Mousavi SM, Rahmani J, Kord-Varkaneh H, et al. Cinnamon supplementation positively affects obesity: a systematic review and dose-response meta-analysis of randomized controlled trials . Clinical Nutrition. 2020;39(1):123-133.
+Namazi N, Khodamoradi K, Khamechi SP, et al. The impact of cinnamon on anthropometric indices and glycemic status in patients with type 2 diabetes: a systematic review and meta-analysis of clinical trials . Complementary Therapies in Medicine . 2019;43:92-101.
+Oketch-Rabah HA, Marles RJ, Brinckmann JA. Cinnamon and cassia nomenclature confusion: a challenge to the applicability of clinical data . Clinical Pharmacology and Therapeutics. 2018;104(3):435-445.
+Paine MF. Natural products: experimental approaches to elucidate disposition mechanisms and predict pharmacokinetic drug interactions . Drug Metabolism and Disposition . 2020;48(10):956-962.
+Steels E, Steels E, Deshpande P, et al. A randomized, double-blind placebo-controlled study of intranasal standardized cinnamon bark extract for allergic rhinitis . Complementary Therapies in Medicine. 2019;47(102198).
+Yazdanpanah Z, Azadi-Yazdi M, Hooshmandi H, et al. Effects of cinnamon supplementation on body weight composition in adults: a systematic review and meta-analysis of controlled clinical trials . Psychotherapy Research. 2020;34(3):448-463.
+An official website of the United States government
+Common Names: cinnamon, cinnamon bark, Ceylon cinnamon, cassia cinnamon
+Latin Names: Cinnamomum verum (also known as Cinnamomum zeylanicum and Laurus cinnamomum ) , Cinnamomum aromaticum (also known as Cinnamomum cassia )
+The NCCIH Clearinghouse provides information on NCCIH and complementary and integrative health approaches, including publications and searches of Federal databases of scientific and medical literature. The Clearinghouse does not provide medical advice, treatment recommendations, or referrals to practitioners.
+Telecommunications relay service (TRS): 7-1-1
+Email: info@nccih.nih.gov (link sends email)
+Website: https://pubmed.ncbi.nlm.nih.gov/
+ODS seeks to strengthen knowledge and understanding of dietary supplements by evaluating scientific information, supporting research, sharing research results, and educating the public. Its resources include publications (such as Dietary Supplements: What You Need To Know ) and fact sheets on a variety of specific supplement ingredients and products (such as vitamin D and multivitamin/mineral supplements).
+NCCIH has provided this material for your information. It is not intended to substitute for the medical expertise and advice of your health care provider(s). We encourage you to discuss any decisions about treatment or care with your health care provider. The mention of any product, service, or therapy is not an endorsement by NCCIH.
+Diabetes and Dietary Supplements: What You Need To Know
+9000 Rockville Pike Bethesda, Maryland 20892

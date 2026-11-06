@@ -1,0 +1,30 @@
+Astragalus is a type of flowering plant. Its root has been used for centuries in traditional Chinese medicine, often in combination with other herbs.
+Astragalus is considered an adaptogen, which is a natural substance theorized to stimulate the body’s resistance to physical, environmental, and emotional stress.
+Sometimes combined with other herbs, astragalus has been promoted as a dietary supplement for many conditions, including upper respiratory infections, allergic rhinitis (hay fever), asthma, chronic fatigue syndrome, chronic kidney disease, and diabetes. It’s also promoted to improve the response of the immune system.
+Topical use (application to the skin) of astragalus is promoted for wound healing.
+There is not sufficient reliable scientific evidence to know whether astragalus is useful for any health condition.
+A 2024 review of 20 studies (involving 953 adults with type 2 diabetes) found that taking astragalus in addition to the medicine metformin reduced fasting blood glucose and hemoglobin A1C more than metformin alone. (HbA1C measures the average blood glucose over the prior few months.) Most of the studies, however, were of low quality and found to have bias.
+A 2023 review of 19 studies (involving 1,094 participants) found that astragalus enhanced immune responses and reduced levels of proinflammatory cytokines. (A cytokine is a type of protein made by certain immune and non-immune cells and has an effect on the immune system.) The studies were small, and there were many differences in how the studies were done, however.
+A 2023 review of 50 studies (involving 3,423 participants) showed that adding astragalus to supportive care or immunosuppressive therapy for treating the kidney disorder membranous nephropathy resulted in greater improvements in some indicators of kidney health. The authors of the review cited several problems with the studies, including their low quality, small size, and limited geographical location.
+Astragalus may be safe when used orally. (Taking up to 60 grams per day for as long as 4 months does not seem to cause adverse effects.) However, a thorough safety evaluation has not been done.
+There isn’t enough reliable information to know if applying astragalus to the skin is safe or has potential side effects.
+Because astragalus might worsen symptoms of autoimmune diseases, people with autoimmune diseases should avoid using astragalus. Also, astragalus may interact with medications that suppress the immune system. If you take any type of medicine, talk with your health care provider before using astragalus or other herbal products; some herbs and medicines interact in harmful ways.
+Little is known about whether it’s safe to use astragalus during pregnancy or while breastfeeding. Some research in animals suggests that during pregnancy, astragalus can be toxic to the fetus.
+Take charge of your health—talk with your health care providers about any complementary health approaches you use. Together, you can make shared, well-informed decisions.
+Federal Regulation of Herbal Products Depending on what’s in them, how they’re intended to be used, and how they’re administered (orally or topically), herbal products are regulated in a variety of ways. Many herbal products intended for oral use are marketed as dietary supplements. The regulatory paths for making and distributing dietary supplements are different than those for drugs.
+Unlike drugs, dietary supplements are not approved by the U.S. Food and Drug Administration (FDA) before they are sold to the public. When public health concerns arise about the safety of a dietary supplement or an ingredient including an herb, the FDA can take action to protect the public. Manufacturers and distributors of supplements are responsible for evaluating the safety and labeling of their products before marketing to ensure that they meet all regulatory requirements.
+Know the Science: How Medications and Supplements Can Interact
+Know the Science: How To Make Sense of a Scientific Journal Article
+Astragalus. NatMed Pro website. Accessed at naturalmedicines.therapeuticresearch.com on April 24, 2024. [Databasesubscription].
+Hong K-F, Liu P-Y, Zhang W, et al. The efficacy and safety of astragalus as an adjuvant treatment for type 2 diabetes mellitus: a systematic review and meta-analysis . Journal of Integrative and Complementary Medicine . 2024;30(1):11-24.
+Wang D, Wang L, Zhang M, et al. Astragalus membranaceus formula for moderate-high risk idiopathic membranous nephropathy: a meta-analysis . Medicine (Baltimore) . 2023;102(9):e32918.
+An official website of the United States government
+Common Names: astragale, astragale à feuilles de réglisse, beg kei, milk vetch, Huang Qi
+Recent scientific reviews have evaluated the research on astragalus for various conditions.
+The NCCIH Clearinghouse provides information on NCCIH and complementary and integrative health approaches, including publications and searches of Federal databases of scientific and medical literature. The Clearinghouse does not provide medical advice, treatment recommendations, or referrals to practitioners.
+Telecommunications relay service (TRS): 7-1-1
+Email: info@nccih.nih.gov (link sends email)
+Website: https://pubmed.ncbi.nlm.nih.gov/
+ODS seeks to strengthen knowledge and understanding of dietary supplements by evaluating scientific information, supporting research, sharing research results, and educating the public. Its resources include publications (such as Dietary Supplements: What You Need To Know ) and fact sheets on a variety of specific supplement ingredients and products (such as vitamin D and multivitamin/mineral supplements).
+NCCIH has provided this material for your information. It is not intended to substitute for the medical expertise and advice of your health care provider(s). We encourage you to discuss any decisions about treatment or care with your health care provider. The mention of any product, service, or therapy is not an endorsement by NCCIH.
+9000 Rockville Pike Bethesda, Maryland 20892

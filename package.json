@@ -1,0 +1,14 @@
+{
+  "name": "vitagokb",
+  "version": "1.0.0",
+  "description": "VitaGo Knowledge Base — 膳食营养补充剂知识库",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "predocs:build": "python3 scripts/check-links.py",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "latest"
+  }
+}

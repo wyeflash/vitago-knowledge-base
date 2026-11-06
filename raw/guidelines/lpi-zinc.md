@@ -1,0 +1,10 @@
+---
+source_url: https://lpi.oregonstate.edu/mic/minerals/zinc
+ingested: 2026-05-02
+sha256: 965927a0fca58efedcf5b6013d8f771bcb4d3eb856573f3521a5e34b8881a8d6
+---
+
+Table of Contents Español | 日本語 Summary Zinc is a nutritionally essential mineral needed for catalytic, structural, and regulatory functions in the body.&nbsp;&nbsp; (More information) Severe zinc deficiency is rare and caused by an inherited condition called acrodermatitis enteropathica
+Acquired zinc deficiency is primarily due to malabsorption syndromes and chronic alcoholism.&nbsp;&nbsp; (More information) Dietary zinc deficiency is quite common in the developing world, affecting an estimated 2 billion people
+Consumption of diets high in phytate and lacking foods from animal origin drive zinc deficiency in these populations.&nbsp;&nbsp; (More information) The recommended dietary allowance ( RDA ) for adult men and women is 11 mg/day and 8 mg/day of zinc, respectively.&nbsp;&nbsp; (More information) Long-term consumption of zinc in excess of the tolerable upper intake level ( UL ; 40 mg/day for adults) can result in copper deficiency.&nbsp;&nbsp; (More information) Dietary zinc deficiency has been associated with impaired growth and development in children, pregnancy complications, and immune dysfunction with increased susceptibility to infections.&nbsp;&nbsp; (More information) Supplementation with doses of zinc in excess of the UL is effective to reduce the duration of common cold symptoms
+The use of zinc at daily doses of 50 to 180 mg for one to two weeks has not resulted in serious side effects.&nbsp;&nbsp; (More information) Current evidence suggests that supplemental zinc may be useful in the management of chronic conditions, such as age-related macular degeneration, diabetes mellitus , Wilson’s disease, and HIV / AIDS .&nbsp;&nbsp; (More information) Zinc bioavailability is relatively high in meat, eggs, and seafood; zinc is less bioavailable from whole grains and legumes due to their high content in phytate that inhibits zinc absorption.&nbsp;&nbsp; (More information) &nbsp; Image
